@@ -34,7 +34,7 @@ export function HeroSection() {
               {/* Photo container */}
               <div className="relative h-full w-full rounded-3xl overflow-hidden border border-primary/10 bg-card shadow-2xl">
                 <img
-                  src="/Ndidiamaka.jpg"
+                  src="/ndidiamaka.jpg"
                   alt="Ndidiamaka Ezeliora - Authority Content Strategist"
                   className="h-full w-full object-cover"
                 />

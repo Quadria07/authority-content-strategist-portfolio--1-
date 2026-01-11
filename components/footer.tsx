@@ -26,7 +26,7 @@ export function Footer() {
             className="flex items-center gap-6"
           >
             <a
-              href="https://www.linkedin.com/in/ndidiamaka-ezeliora/"
+              href="https://www.linkedin.com/in/ndidiamaka-ezeliora-/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
